@@ -18,7 +18,7 @@ Application de recommandation de médicaments : l'IA étudie les symptômes du p
 |--------|---------|------|---------|
 | 1 | Larissa, Fideline | Préparation des données | `data/` |
 | 2 | Harilaza | Analyse et IA | `ml/` |
-| 3 | Eli, Hery, Luc | Back-end et gestion des médicaments | `backend/` |
+| 3 | Eli, Hery Luc | Back-end et gestion des médicaments | `backend/` |
 | 4 | Laryah, Joseph | Interface admin et user | `frontend/` |
 
 ## Branches
