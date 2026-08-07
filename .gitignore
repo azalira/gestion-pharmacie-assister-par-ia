@@ -1,0 +1,29 @@
+# Environnement
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Données volumineuses
+data/raw/*
+!data/raw/.gitkeep
+
+# Base de données
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
