@@ -21,9 +21,17 @@ data/raw/*
 node_modules/
 dist/
 
+# Kaggle (identifiants et sorties locales volumineuses)
+.kaggle/
+kaggle_submission/kaggle_output/
+ml/models/
+
 # IDE
 .vscode/
 .idea/
 
 # OS
 .DS_Store
+
+# Outils internes
+.freebuff/

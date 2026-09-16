@@ -1,13 +1,52 @@
 # Frontend — Binôme 4 (Laryah, Joseph)
 
-Interfaces :
+Interface **SvelteKit** (Svelte 5 + TypeScript) de la Gestion Pharmacie IA.
+Le frontend consomme l'API FastAPI conforme au contrat dans [`docs/api-contrat.md`](../docs/api-contrat.md).
 
-- **Pharmacien** : dashboard (clients, ventes), ajout/modification/suppression de médicament,
-  affichage et recherche, ajout de fournisseur, commande aux fournisseurs avec soumission pour
-  validation du bon de commande au propriétaire.
-- **Admin** : dashboard, validation ou non des bons de commande.
-- **User** : champ pour décrire ses symptômes.
+## Rôles & fonctionnalités
 
-- `src/` → pages HTML/JS (ou framework frontend)
+- **Pharmacien / Admin** (`/pharmacien`)
+  - Dashboard : statistiques de stock, alertes et ruptures
+  - Médicaments (`/pharmacien/medicaments`) : CRUD complet, recherche, ajout de stock, enregistrement de ventes
+- **Patient / User** (`/patient`)
+  - Saisie des symptômes (+ âge, allergies)
+  - Recommandations IA : médicaments proposés **selon le stock disponible**, maladies probables
 
-Servi statiquement par FastAPI (voir `backend/`).
+## Authentification
+
+Login à `/login`. Le token JWT est stocké en `localStorage`.
+Les routes sont protégées par rôle via `RoleGuard` (`src/lib/components/RoleGuard.svelte`).
+
+## Structure
+
+```
+src/
+├── lib/
+│   ├── api/
+│   │   ├── client.ts     # client fetch + gestion token + erreurs
+│   │   └── types.ts      # types TS du contrat d'API
+│   ├── components/
+│   │   └── RoleGuard.svelte   # protection des routes par rôle
+│   └── stores/
+│       └── auth.ts       # état d'authentification (Svelte 5 runes)
+└── routes/
+    ├── login/            # page de connexion
+    ├── pharmacien/       # dashboard + médcicaments (rôle pharmacien/admin)
+    └── patient/          # symptômes + recommandations IA
+```
+
+## Lancement
+
+```bash
+cd frontend
+npm install
+
+npm run dev        # dev server (Vite)
+npm run build      # compilation statique -> frontend/build/ (servie par FastAPI)
+npm run check      # vérification de types Svelte
+```
+
+## Configuration API
+
+L'URL de base de l'API est fixée à `http://localhost:8000` dans
+`src/lib/api/client.ts` (à adapter selon déploiement).

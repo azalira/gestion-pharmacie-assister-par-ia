@@ -1,0 +1,15 @@
+{
+  "kaggle_username": "lazafidera",
+  "dataset_slug": "pharmacy-chatbot-dataset",
+  "notebook_slug": "pharmacy-bot-training",
+  "dataset_title": "Pharmacy chatbot dataset",
+  "notebook_title": "Pharmacy bot training",
+  "machine_shape": "NvidiaTeslaT4",
+  "notebook_file": "ml/notebooks/kaggle_train.ipynb",
+  "model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "method": "QLoRA 4-bit (r=8, alpha=16)",
+  "gpu": "T4 x2",
+  "epochs": 5,
+  "batch_size": 8,
+  "gradient_accumulation": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": "lazafidera/pharmacy-bot-training",
+  "title": "Pharmacy bot training",
+  "code_file": "kaggle_train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "lazafidera/pharmacy-chatbot-dataset"
+  ],
+  "keywords": [
+    "pharmacy",
+    "llm",
+    "qlora"
+  ]
+}

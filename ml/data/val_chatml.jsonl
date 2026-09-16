@@ -1,0 +1,511 @@
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre hypothyroïdie et thyroïde ?<|im_end|>
+<|im_start|>assistant
+levothyrox est indicated pour hypothyroïdie et thyroïde (classe : Hormone thyroïdienne).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de collyre ?<|im_end|>
+<|im_start|>assistant
+collyre appartient a la classe Ophtalmologique.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre prévention cardiovasculaire et thrombose ?<|im_end|>
+<|im_start|>assistant
+kardegic est indicated pour prévention cardiovasculaire et thrombose (classe : Antiagrégant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre asthme et essoufflement ?<|im_end|>
+<|im_start|>assistant
+ventoline est indicated pour asthme et essoufflement (classe : Bronchodilatateur).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des envie de vomir. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des envie de vomir, ondansetron hydrochloride peut etre indicated (Antiémétique (US), substances : ONDANSETRON HYDROCHLORIDE).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+qu'est-ce que le stock de sécurité (ss) ?<|im_end|>
+<|im_start|>assistant
+C'est une réserve qui permet de parer aux ruptures de stock, elle correspond à la moitié de consommation entre deux commandes. Il fixe le seuil en dessous duquel le stock disponible ne doit jamais descendre.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+quelle est la formule pour calculer la cmm ?<|im_end|>
+<|im_start|>assistant
+CMM = Stock début de mois - Stock fin de mois<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre brûlure et peau ?<|im_end|>
+<|im_start|>assistant
+bepanthene est indicated pour brûlure et peau (classe : Cicatrisant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la formule du Stock de Roulement ?<|im_end|>
+<|im_start|>assistant
+SR = CMM × (Délai de livraison / 30)<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quel est le principe actif de azithromycine ?<|im_end|>
+<|im_start|>assistant
+Le principe actif de azithromycine est AZITHROMYCINE.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Que traite le medicament fucicort ?<|im_end|>
+<|im_start|>assistant
+fucicort (substances : FUSIDIQUE, BETAMETHASONE) appartient a la classe Dermocorticoïde. Il est utilise pour : dermite, infection peau, eczéma.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre fièvre et dent ?<|im_end|>
+<|im_start|>assistant
+doliprane est indicated pour fièvre et dent (classe : Antalgique / Antipyrétique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre inflammation et prévention cardiovasculaire ?<|im_end|>
+<|im_start|>assistant
+aspirine est indicated pour inflammation et prévention cardiovasculaire (classe : AINS / Antiagrégant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre sinusite et mal de gorge ?<|im_end|>
+<|im_start|>assistant
+augmentin est indicated pour sinusite et mal de gorge (classe : Antibiotique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quel est le principe actif de daktarin ?<|im_end|>
+<|im_start|>assistant
+Le principe actif de daktarin est MICONAZOLE.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des vomir. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des vomir, solvent/small ring combination peut etre indicated (Antiémétique (US), substances : SOLVENT/SMALL RING COMBINATION).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des prévention cardiovasculaire. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des prévention cardiovasculaire, kardegic pourrait etre indique (classe therapeutique : Antiagrégant). Les symptomes traites : prévention cardiovasculaire, thrombose.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleur chronique et post-opératoire ?<|im_end|>
+<|im_start|>assistant
+tramadol est indicated pour douleur chronique et post-opératoire (classe : Antalgique opioïde).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des nausees et vomissements. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des nausees et vomissements, trimethobenzamide hydrochloride peut etre indicated (Antiémétique (US), substances : TRIMETHOBENZAMIDE HYDROCHLORIDE).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre dermite et eczéma ?<|im_end|>
+<|im_start|>assistant
+fucicort est indicated pour dermite et eczéma (classe : Dermocorticoïde).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels sont les medicaments pour sinusite ?<|im_end|>
+<|im_start|>assistant
+sinupret est un medicament de la classe Fluidifiant nasal (EXTRAITS VEGETAUX). Il est indicated pour : sinusite, nez bouché, rhinite.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des infection. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des infection, azithromycine pourrait etre indique (classe therapeutique : Antibiotique). Les symptomes traites : infection, pneumonie, angine, mal de gorge, chlamydia.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre thrombose et phlébite ?<|im_end|>
+<|im_start|>assistant
+lovenox est indicated pour thrombose et phlébite (classe : Anticoagulant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Que traite le medicament canesten ?<|im_end|>
+<|im_start|>assistant
+canesten (substances : CLOTRIMAZOLE) appartient a la classe Antifongique. Il est utilise pour : mycose, candida, peau.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre anxiété et insomnie ?<|im_end|>
+<|im_start|>assistant
+seresta est indicated pour anxiété et insomnie (classe : Anxiolytique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de otilon ?<|im_end|>
+<|im_start|>assistant
+otilon appartient a la classe Otologique.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre fièvre et prévention cardiovasculaire ?<|im_end|>
+<|im_start|>assistant
+aspirine est indicated pour fièvre et prévention cardiovasculaire (classe : AINS / Antiagrégant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des thrombose. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des thrombose, enoxaparine pourrait etre indique (classe therapeutique : Anticoagulant). Les symptomes traites : thrombose, phlébite, embolie, post-opératoire.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre nez qui coule et hygiène nasale ?<|im_end|>
+<|im_start|>assistant
+sterimar est indicated pour nez qui coule et hygiène nasale (classe : Lavage nasal).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre inflammation et règles ?<|im_end|>
+<|im_start|>assistant
+ibuprofene est indicated pour inflammation et règles (classe : AINS).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de imodium ?<|im_end|>
+<|im_start|>assistant
+imodium appartient a la classe Antidiarrhéique.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de bepanthene ?<|im_end|>
+<|im_start|>assistant
+bepanthene appartient a la classe Cicatrisant.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre phlébite et embolie ?<|im_end|>
+<|im_start|>assistant
+lovenox est indicated pour phlébite et embolie (classe : Anticoagulant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des signe d'infection. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des signe d'infection, azithromycine peut etre indicated (Antibiotique, substances : AZITHROMYCINE).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des hemorroides, que prendre ?<|im_end|>
+<|im_start|>assistant
+ Daflon (Diosmine + Hesperidine) est souvent utilise pour les hemorroides. Consultez un medecin si les symptomes persistent.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de ibuprofene ?<|im_end|>
+<|im_start|>assistant
+ibuprofene appartient a la classe AINS.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre rétention d'eau et hypertension ?<|im_end|>
+<|im_start|>assistant
+diuril est indicated pour rétention d'eau et hypertension (classe : Diurétique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des vomir. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des vomir, clonazepam peut etre indicated (Antiémétique (US), substances : CLONAZEPAM).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Qu'est-ce que le Stock Maximum (SMax) ?<|im_end|>
+<|im_start|>assistant
+Il est égal au stock de roulement ajouté au stock minimum.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleur et règles ?<|im_end|>
+<|im_start|>assistant
+ibuprofene est indicated pour douleur et règles (classe : AINS).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai une toux seche, quel traitement ?<|im_end|>
+<|im_start|>assistant
+Pour la toux seche, un antitussif comme le Doliprane Codeine peut etre indicated. Buvez beaucoup et hydratez-vous.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Que traite le medicament collyre ?<|im_end|>
+<|im_start|>assistant
+collyre (substances : VARI) appartient a la classe Ophtalmologique. Il est utilise pour : yeux, conjonctivite, sécheresse oculaire.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels sont les medicaments pour infection ?<|im_end|>
+<|im_start|>assistant
+amoxicilline est un medicament de la classe Antibiotique (AMOXICILLINE). Il est indicated pour : infection, otite, angine, mal de gorge, pneumonie.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre rhume et fièvre ?<|im_end|>
+<|im_start|>assistant
+fervex est indicated pour rhume et fièvre (classe : Antigrippe).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleurs abdominales et règles ?<|im_end|>
+<|im_start|>assistant
+spasfon est indicated pour douleurs abdominales et règles (classe : Antispasmodique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quel est le principe actif de ondansetron hydrochloride ?<|im_end|>
+<|im_start|>assistant
+Le principe actif de ondansetron hydrochloride est ONDANSETRON HYDROCHLORIDE.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quel est le principe actif de doliprane ?<|im_end|>
+<|im_start|>assistant
+Le principe actif de doliprane est PARACETAMOL.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des douleur. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des douleur, nurofen pourrait etre indique (classe therapeutique : AINS). Les symptomes traites : douleur, inflammation, fièvre, règles, mal de gorge.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai mal a la gorge, que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour le mal de gorge, Paracetamol ou Ibuprofene peuvent soulager. Consultez un medecin si la douleur persiste plus de quelques jours.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre yeux rouges et conjonctivite ?<|im_end|>
+<|im_start|>assistant
+visine est indicated pour yeux rouges et conjonctivite (classe : Décongestionnant ophtalmique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre peau et ongles ?<|im_end|>
+<|im_start|>assistant
+daktarin est indicated pour peau et ongles (classe : Antifongique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Que traite le medicament smecta ?<|im_end|>
+<|im_start|>assistant
+smecta (substances : DIOCTAHEDRAL SMECTITE) appartient a la classe Antidiarrhéique. Il est utilise pour : diarrhée, ballonnements, douleurs abdominales, ventre.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de arsenicum album, bryonia (alba), cadmium sulphuratum, cocculus indicus, colchicum autumnale, conium maculatum, cyclamen europaeum, euphorbia corollata, ferrum metallicum, ipecacuanha, iris versicolor, lac defloratum, lacticum acidum, nux vomica, petroleum, pulsatilla (pratensis), sepia, tabacum, theridion, zingiber officinale ?<|im_end|>
+<|im_start|>assistant
+arsenicum album, bryonia (alba), cadmium sulphuratum, cocculus indicus, colchicum autumnale, conium maculatum, cyclamen europaeum, euphorbia corollata, ferrum metallicum, ipecacuanha, iris versicolor, lac defloratum, lacticum acidum, nux vomica, petroleum, pulsatilla (pratensis), sepia, tabacum, theridion, zingiber officinale appartient a la classe Antiémétique (US).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre nez bouché et hygiène nasale ?<|im_end|>
+<|im_start|>assistant
+sterimar est indicated pour nez bouché et hygiène nasale (classe : Lavage nasal).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quelle est la classe therapeutique de polaramin ?<|im_end|>
+<|im_start|>assistant
+polaramin appartient a la classe Antihistaminique.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des douleur au. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des douleur au, doliprane peut etre indicated (Antalgique / Antipyrétique, substances : PARACETAMOL).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Que traite le medicament doliprane ?<|im_end|>
+<|im_start|>assistant
+doliprane (substances : PARACETAMOL) appartient a la classe Antalgique / Antipyrétique. Il est utilise pour : douleur, fièvre, maux de tête, mal de gorge, dent.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels sont les medicaments pour coupure ?<|im_end|>
+<|im_start|>assistant
+bepanthene est un medicament de la classe Cicatrisant (DEXPANTHENOL). Il est indicated pour : coupure, brûlure, peau, cicatrisation.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des vomir. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des vomir, arsenicum album, bryonia (alba), cadmium sulphuratum, cocculus indicus, colchicum autumnale, conium maculatum, cyclamen europaeum, euphorbia corollata, ferrum metallicum, ipecacuanha, iris versicolor, lac defloratum, lacticum acidum, nux vomica, petroleum, pulsatilla (pratensis), sepia, tabacum, theridion, zingiber officinale peut etre indicated (Antiémétique (US), substances : ARSENICUM ALBUM, BRYONIA (ALBA), CADMIUM SULPHURATUM, COCCULUS INDICUS, COLCHICUM AUTUMNALE, CONIUM MACULATUM, CYCLAMEN EUROPAEUM, EUPHORBIA COROLLATA, FERRUM METALLICUM, IPECACUANHA, IRIS VERSICOLOR, LAC DEFLORATUM, LACTICUM ACIDUM, NUX VOMICA, PETROLEUM, PULSATILLA (PRATENSIS), SEPIA, TABACUM, THERIDION, ZINGIBER OFFICINALE).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des nausees et vomissements. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des nausees et vomissements, arsenicum album, bryonia (alba), cadmium sulphuratum, cocculus indicus, colchicum autumnale, conium maculatum, cyclamen europaeum, euphorbia corollata, ferrum metallicum, ipecacuanha, iris versicolor, lac defloratum, lacticum acidum, nux vomica, petroleum, pulsatilla (pratensis), sepia, tabacum, theridion, zingiber officinale peut etre indicated (Antiémétique (US), substances : ARSENICUM ALBUM, BRYONIA (ALBA), CADMIUM SULPHURATUM, COCCULUS INDICUS, COLCHICUM AUTUMNALE, CONIUM MACULATUM, CYCLAMEN EUROPAEUM, EUPHORBIA COROLLATA, FERRUM METALLICUM, IPECACUANHA, IRIS VERSICOLOR, LAC DEFLORATUM, LACTICUM ACIDUM, NUX VOMICA, PETROLEUM, PULSATILLA (PRATENSIS), SEPIA, TABACUM, THERIDION, ZINGIBER OFFICINALE).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleur et inflammation ?<|im_end|>
+<|im_start|>assistant
+nurofen est indicated pour douleur et inflammation (classe : AINS).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleurs abdominales et coliques ?<|im_end|>
+<|im_start|>assistant
+spasfon est indicated pour douleurs abdominales et coliques (classe : Antispasmodique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre pneumonie et chlamydia ?<|im_end|>
+<|im_start|>assistant
+azithromycine est indicated pour pneumonie et chlamydia (classe : Antibiotique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quel est le principe actif de sertraline hydrochloride ?<|im_end|>
+<|im_start|>assistant
+Le principe actif de sertraline hydrochloride est SERTRALINE HYDROCHLORIDE.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+qu'est-ce que le stock de roulement (stock de roulement) ?<|im_end|>
+<|im_start|>assistant
+Il s'agit du stock pour satisfaire la demande entre les livraisons, il doit tenir compte de la périodicité et du délai de livraison.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre brûlure et cicatrisation ?<|im_end|>
+<|im_start|>assistant
+bepanthene est indicated pour brûlure et cicatrisation (classe : Cicatrisant).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des envie de vomir. Que prendre ?<|im_end|>
+<|im_start|>assistant
+Pour des envie de vomir, carbidopa and levodopa peut etre indicated (Antiémétique (US), substances : CARBIDOPA AND LEVODOPA).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre douleur et maux de tête ?<|im_end|>
+<|im_start|>assistant
+doliprane est indicated pour douleur et maux de tête (classe : Antalgique / Antipyrétique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels sont les medicaments pour douleur ?<|im_end|>
+<|im_start|>assistant
+efferalgan est un medicament de la classe Antalgique / Antipyrétique (PARACETAMOL). Il est indicated pour : douleur, fièvre, maux de tête, mal de gorge, dent.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des rhume. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des rhume, fervex pourrait etre indique (classe therapeutique : Antigrippe). Les symptomes traites : rhume, grippe, fièvre, nez qui coule.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+J'ai des vomissement. Quel medicament recommandez-vous ?<|im_end|>
+<|im_start|>assistant
+Pour des vomissement, arsenicum album, bryonia (alba), cadmium sulphuratum, cocculus indicus, colchicum autumnale, conium maculatum, cyclamen europaeum, euphorbia corollata, ferrum metallicum, ipecacuanha, iris versicolor, lac defloratum, lacticum acidum, nux vomica, petroleum, pulsatilla (pratensis), sepia, tabacum, theridion, zingiber officinale pourrait etre indique (classe therapeutique : Antiémétique (US)). Les symptomes traites : vomissement, nausées.<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre plaie et peau ?<|im_end|>
+<|im_start|>assistant
+biseptine est indicated pour plaie et peau (classe : Antiseptique).<|im_end|>
+<|im_end|>
+<|im_start|>system
+Tu es un assistant pharmacien francophone. Tu donnes des informations sur les medicaments, leurs indications, leurs symptomes et la gestion de stock en pharmacie. Tu n'es pas un medecin. Consulte toujours un professionnel de sante.<|im_end|>
+<|im_start|>user
+Quels medicaments contre bronchospasme et sifflements ?<|im_end|>
+<|im_start|>assistant
+ventoline est indicated pour bronchospasme et sifflements (classe : Bronchodilatateur).<|im_end|>
+<|im_end|>

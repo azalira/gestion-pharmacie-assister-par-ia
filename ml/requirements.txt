@@ -1,0 +1,9 @@
+# Fine-tuning LLM
+torch
+transformers>=4.36.0
+datasets>=2.14.0
+peft>=0.7.0
+accelerate>=0.25.0
+sentence-transformers
+faiss-cpu
+numpy

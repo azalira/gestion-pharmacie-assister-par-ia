@@ -1,0 +1,10 @@
+{
+  "title": "Pharmacy chatbot dataset",
+  "id": "lazafidera/pharmacy-chatbot-dataset",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "description": "Dataset d'entraînement du chatbot pharmacie (TinyLlama QLoRA)."
+}
